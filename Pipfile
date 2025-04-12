@@ -8,10 +8,11 @@ pandas = "*"
 seaborn = "*"
 matplotlib = "*"
 numpy = "*"
-ipykernel = "*"
 nbformat = "*"
 yellowbrick = {extras = ["notebooks"], version = "*"}
 setuptools = "*"
+torch = "*"
+ipykernel = "*"
 
 [dev-packages]
 
